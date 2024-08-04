@@ -27,7 +27,7 @@ Pretraining notebook is avaiable here: https://www.kaggle.com/code/waitongchung/
 2. Logs and model checkpoints from the two training approaches are then compared in `plot.ipynb`.
 3. Finetuning dataset is in `./dataset/`. This is extracted from the reference below.
 
-## 3. Checkpoints here
+## 3. Checkpoints
 1. For brevity, only first, last, and best model checkpoints are saved in this repo. See training info in the provided logs and use provided notebooks to recreate experiments.
 
 ## 4. Citation Info
