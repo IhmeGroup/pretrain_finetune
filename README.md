@@ -19,8 +19,8 @@ pip install -r requirements.txt
 ```
 ## 1. Pretraining
 Pretraining notebook is avaiable here: https://www.kaggle.com/code/waitongchung/pretraining-2d-sr-from-scratch
-    * This notebook is already linked to the dataset used for pretraining.
-    * This generates the pretrained checkpoint in `./ckpt/ckpt-92/` that is used for finetuning
+* This notebook is already linked to the dataset used for pretraining.
+* This generates the pretrained checkpoint in `./ckpt/ckpt-92/` that is used for finetuning
 
 ## 2. Finetuning and Training from Scratch
 1. This is done in `finetune_and_scratch.ipynb` where we (i) finetuned the pretrained model and (ii) and train another model from scratch. 
