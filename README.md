@@ -43,6 +43,7 @@ Pretraining notebook is avaiable here: https://www.kaggle.com/code/waitongchung/
 }
 ```
 2. For the dataset, cite:
+```
 @article{chung2024turbulence,
   title={Turbulence in focus: {B}enchmarking scaling behavior of {3D} volumetric super-resolution with {BLASTNet} 2.0 data},
   author={Chung, Wai Tong and Akoush, Bassem and Sharma, Pushan and Tamkin, Alex and Jung, Ki Sung and Chen, Jacqueline and Guo, Jack and Brouzet, Davy and Talei, Mohsen and Savard, Bruno and others},
@@ -51,3 +52,4 @@ Pretraining notebook is avaiable here: https://www.kaggle.com/code/waitongchung/
   pages = {77430--77484},
   year={2024}
 }
+```
